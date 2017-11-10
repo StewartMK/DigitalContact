@@ -1,0 +1,13 @@
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\DigitalContact.exe.config
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\contacts.mdf
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\contacts_log.ldf
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\DigitalContact.exe
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\DigitalContact.pdb
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\bin\Debug\DigitalContact.xml
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.vbprojResolveAssemblyReference.cache
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.Form1.resources
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.Resources.resources
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.vbproj.GenerateResource.Cache
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.exe
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.xml
+c:\users\never\documents\visual studio 2015\Projects\DigitalContact\DigitalContact\obj\Debug\DigitalContact.pdb
